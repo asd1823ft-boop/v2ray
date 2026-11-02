@@ -2,3 +2,4 @@ vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.19.229.21:2082?encryption=none&
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@designerstg.moss.gov.eg:2082?encryption=none&type=ws&host=hhlfy.twiladaphne.ndjp.net&headerType=none&path=%2Ffp#Abdallah%201000
 ssh://eddx:eddx@81.17.97.202:443?KUX3sw04Vw3D4VZXnUUdx0FNrJT7MZYPTsKSE/hPfOd1XAwLgPwSZpLVKiAWUddnFIn58qXjKJZq1mfCXTLXOA==#abdi
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.19.229.21:2082?encryption=none&type=ws&host=hhlfy.twiladaphne.ndjp.net&headerType=none&path=%2Ffp#Abdallah%20300
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.66.172.209:2082?encryption=none&type=ws&host=hhlfy.twiladaphne.ndjp.net&headerType=none&path=%2Ffp#%5B%D8%AA%D9%85%D8%A7%D8%A7%D8%A7%D9%85%5D%20CA
